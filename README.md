@@ -75,8 +75,8 @@ Ao encerrar o script:
 
 ---
 
-```markdown
 ## 🧪 Exemplo de saída
+```markdown
 [+] IP Forwarding ativado
 [+] ARP Spoofing INICIADO
     Vítima    : 192.168.0.208
@@ -84,7 +84,6 @@ Ao encerrar o script:
     Interface : wlp2s0
 ================================================================================
 [+] Sniffer iniciado (capturando tráfego de 192.168.0.208
-
 [+] Pressione Ctrl+C para parar o ataque
 
 [DNS Query] 192.168.0.208 → 8.8.8.8 | google.com
