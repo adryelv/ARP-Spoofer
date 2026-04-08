@@ -84,13 +84,12 @@ Ao encerrar o script:
     Interface : wlp2s0
 ================================================================================
 [+] Sniffer iniciado (capturando tráfego de 192.168.0.208
-[+] Domínios (DNS) serão destacados em verde
 
 [+] Pressione Ctrl+C para parar o ataque
 
-[DNS Query] 192.168.1.100 → 8.8.8.8 | google.com
-[DNS Answer] 8.8.8.8 → 192.168.1.100 | google.com
-[TCP] 192.168.1.100 → 172.217.29.14
+[DNS Query] 192.168.0.208 → 8.8.8.8 | google.com
+[DNS Answer] 8.8.8.8 → 192.168.0.208 | google.com
+[TCP] 192.168.0.208 → 172.217.29.14
 ```
 
 ---
